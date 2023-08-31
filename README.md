@@ -6,8 +6,6 @@ Our findings underscore the significant role of funding in startup success, driv
 
 Predictive models unveil the relationship between funding and valuation, enabling insights into startups' potential growth trajectories. Our research underscores the dynamism of India's startup scene and underscores the symbiotic relationship between funding, government support, and entrepreneurial success.
 
-<p> Created an interactive dashboard using Tableau to explore, understand and get an overview of the funding ecosystem of startups in India. 
-<br> Here is the link to dashboard in Tableau Public - https://public.tableau.com/app/profile/shritama.sengupta/viz/Indian_Startup_Funding_Trend/Overall2 </p>
 
 Snapshot of the Dashbaord we have created - 
 
