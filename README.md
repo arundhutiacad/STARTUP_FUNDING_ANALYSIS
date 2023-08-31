@@ -7,6 +7,3 @@ Our findings underscore the significant role of funding in startup success, driv
 Predictive models unveil the relationship between funding and valuation, enabling insights into startups' potential growth trajectories. Our research underscores the dynamism of India's startup scene and underscores the symbiotic relationship between funding, government support, and entrepreneurial success.
 
 
-Snapshot of the Dashbaord we have created - 
-
-![Screenshot (34)](https://github.com/codeforever200/Indian_Startup_Funding_Analysis/assets/57805586/8e0f08e0-077b-4272-9f50-77b271b7649b)
